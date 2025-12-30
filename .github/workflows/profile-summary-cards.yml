@@ -1,0 +1,24 @@
+name: GitHub-Profile-Summary-Cards
+
+on:
+  schedule: # Run automatically
+    - cron: "0 0 * * *" # Every 24 hours
+  workflow_dispatch: # Run manually
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    name: generate-github-profile-summary-cards
+    permissions:
+      contents: write
+      
+    steps:
+      - uses: actions/checkout@v2
+      - uses: vn7n24fzkq/github-profile-summary-cards@release
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        with:
+          USERNAME: ${{ github.repository_owner }}
+          # Theme: radical corresponds well to the Cyberpunk aesthetic
+          # You can also try: tokyonight, dark, solarized_dark
+          THEME: radical
