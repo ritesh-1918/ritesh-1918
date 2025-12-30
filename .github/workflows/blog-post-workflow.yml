@@ -4,12 +4,15 @@ on:
     - cron: '0 * * * *' # Runs every hour
   workflow_dispatch: # Run workflow manually (without waiting for the cron schedule)
 
+permissions:
+  contents: write # To write the generated contents to the readme
+
 jobs:
   update-readme-with-blog:
     name: Update this repo's README with latest blog posts
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v2
+      - uses: actions/checkout@v4
       - uses: gautamkrishnar/blog-post-workflow@master
         with:
           feed_list: "https://medium.com/feed/@ritesh1918"
