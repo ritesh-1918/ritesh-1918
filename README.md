@@ -110,6 +110,10 @@
   <img src="https://raw.githubusercontent.com/ritesh-1918/ritesh-1918/main/profile-summary-card-output/radical/1-repos-per-language.svg" alt="Repos per Language" />
   <img src="https://raw.githubusercontent.com/ritesh-1918/ritesh-1918/main/profile-summary-card-output/radical/2-most-commit-language.svg" alt="Most Commits Language" />
   
+  <br/>
+  
+  <!-- Profile Views Counter -->
+  <img src="https://komarev.com/ghpvc/?username=ritesh-1918&label=PROFILE_VIEWS&color=00FFFF&style=flat-square" alt="Profile Views" />
 </div>
 
 <br/>
