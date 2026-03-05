@@ -147,9 +147,8 @@
 </td>
 </tr>
 </table>
-
 <!-- Footer -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0d1117&height=80&section=footer&fontSize=10&fontColor=000000" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=00FFFF&height=100&section=footer&fontSize=10&fontColor=000000" width="100%"/>
 </div>
 </div>
