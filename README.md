@@ -127,7 +127,7 @@
 
 <h3 align="left">📝 <span style="color: #00FFFF">LATEST_TRANSMISSIONS</span></h3>
 <!-- BLOG-POST-LIST:START -->
-- [The AI Revolution of 2025: 5 Game-Changing Technologies Every Student Should Know About](https://medium.com/@ritesh1918/the-ai-revolution-of-2025-5-game-changing-technologies-every-student-should-know-about-a4ba5fbef4cc?source=rss-0e4ece62824a------2)
+⚡ **[The AI Revolution of 2025: 5 Game-Changing Technologies Every Student Should Know About](https://medium.com/@ritesh1918/the-ai-revolution-of-2025-5-game-changing-technologies-every-student-should-know-about-a4ba5fbef4cc?source=rss-0e4ece62824a------2)** <br/>
 <!-- BLOG-POST-LIST:END -->
 
 </td>
@@ -149,11 +149,8 @@
 </tr>
 </table>
 
-<br/>
-
 <!-- Footer -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0d1117&height=100&section=footer&fontSize=10&fontColor=000000" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0d1117&height=80&section=footer&fontSize=10&fontColor=000000" width="100%"/>
 </div>
-
 </div>
