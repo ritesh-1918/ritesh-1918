@@ -52,13 +52,3 @@
 ```
 
     
-
----
-
-![](./4-productive-time.svg)
-
-```
-![](https://raw.githubusercontent.com/ritesh-1918/ritesh-1918/main/profile-summary-card-output/omni/4-productive-time.svg)
-```
-
-    
